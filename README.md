@@ -5,4 +5,3 @@ A tool for cloning a website
 ```bash
 py main.py website-url
 ```
-- [Tutorial](https://www.youtube.com/@pandahastam)

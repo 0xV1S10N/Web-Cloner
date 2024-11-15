@@ -1,4 +1,4 @@
-# Web-Cloner
+# Web-Cloner (Fixed Version)
 A tool for cloning a website
 
 ## How To Run
